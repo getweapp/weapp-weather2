@@ -21,3 +21,7 @@
 ### 项目截图：
 
 https://www.getweapp.com/project?projectId=583d77c6e8ff074c22472f3b
+
+### 感谢：
+
+本项目原始版本由swiftcafex提供： https://github.com/swiftcafex/wechat-weather

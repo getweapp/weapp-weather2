@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#36c",
+    "navigationBarTitleText": "天气预报",
+    "navigationBarTextStyle":"light"
+  }
+}
